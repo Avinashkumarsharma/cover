@@ -1,4 +1,4 @@
-package com.blackbox.coverup;
+package com.blackbox.cover;
 
 import org.junit.Test;
 
